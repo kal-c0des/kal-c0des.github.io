@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This blog is a work in progress.
 
-Maybe say a some things about yourself.
+Feel free to follow along on my coding journey.
 
-Or maybe what you plan to blog about.
+First post coming soon!
